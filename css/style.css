@@ -11,16 +11,29 @@ header {
 
 #cercle {
     z-index: 4;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 100px;
 }
 
 #bulle {
     z-index: 3;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 100px;
 }
 
 #personne {
     z-index: 2;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 50% 50% 0% 0%;
+    width: 100px;
 }
 
 #graphique {
     z-index: 1;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 100px;
 }
