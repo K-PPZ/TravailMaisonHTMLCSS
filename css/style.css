@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: #28293E;
+}
+
+header {
+    background-image: url(../img/Orange_hexagon.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#cercle {
+    z-index: 4;
+}
+
+#bulle {
+    z-index: 3;
+}
+
+#personne {
+    z-index: 2;
+}
+
+#graphique {
+    z-index: 1;
+}
