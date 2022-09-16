@@ -13,14 +13,14 @@ header {
     z-index: 4;
     margin-left: 5px;
     margin-top: 5px;
-    width: 100px;
+    width: 400px;
 }
 
 #bulle {
     z-index: 3;
     margin-left: 5px;
     margin-top: 5px;
-    width: 100px;
+    width: 150px;
 }
 
 #personne {
@@ -28,7 +28,7 @@ header {
     margin-left: 5px;
     margin-top: 5px;
     border-radius: 50% 50% 0% 0%;
-    width: 100px;
+    width: 300px;
 }
 
 #graphique {
