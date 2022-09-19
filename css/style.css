@@ -3,6 +3,10 @@ body {
     background-color: #28293E;
 }
 
+img {
+    max-width: 100%;
+}
+
 header {
     background-image: url(../img/Orange_hexagon.png);
     background-repeat: no-repeat;
